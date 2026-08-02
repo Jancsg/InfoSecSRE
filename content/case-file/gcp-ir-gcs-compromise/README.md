@@ -17,12 +17,15 @@ Kit de producción completo (nivel productor) para la serie de 5 episodios basad
 | `audio/AUDIO_PLAN.md` | Mic, música, SFX |
 | `checklists/` | Prod day + screen prep |
 
-## Orden de uso (día de rodaje)
-1. Lee bible + rundowns  
-2. Prepara escenas de log (`checklists/SCREEN_PREP.md`)  
-3. Graba cards → A-roll → screen  
-4. Edita con template CapCut  
-5. Publica con `04_POSTING_PACK.md`
+## Empieza aquí el día de rodaje
+**`SHOOT_PACKET.md`** — paquete único para grabar tú toda la serie:
+guiones, estructuras, encuadres, tomas, teleprompter y checklist.
+
+## Orden de uso
+1. Abre `SHOOT_PACKET.md` y síguelo de arriba a abajo  
+2. (Ref) bible + rundowns si necesitas contexto  
+3. Edita con `03_EDIT_TIMELINE_CAPCUT.md`  
+4. Publica con `04_POSTING_PACK.md`
 
 ## Serie
 1. Identidad primero  
